@@ -13,6 +13,8 @@ We would plan on first identifying the Neural Network models that are most stand
 As of yet, I don't really know too much about the Neural Networks or the language data that would be best for this project. I know that the constraints for the Neural Networks would be that they can be used for language analysis (train on text and then feed in a new sentence to see if it is "correct/understandable"). For the language data, the only constraint is that we find a dataset that is representative of multiple dialects and not just the standard form. 
 
 ### Goals
+* We first figure out what Neural Network models can be used for language analysis
+* We then find a dataset that has standard and non-standard English sentences and labels indicating which category a sentence fits in
 * We train multiple Neural Networks on a dataset that represents both standard and nonstandard forms of English
 * We can test the model after training to see if there is a bias towards evaluating certain sentences are "more correct/understandable" than others depending on what form of English they are from
 * If there is a bias, we can use current research to understand why this might be... ie. is the Neural Network pretrained? Is there something about language analysis and processing that might explain this
