@@ -1,4 +1,4 @@
-#Exploring Bias through Linguistic Data
+Exploring Bias through Linguistic Data
 
 ## Project Description
 #### The Project:
