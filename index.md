@@ -1,5 +1,7 @@
 Exploring Bias through Linguistic Data
 
+![Sociolinguistics](http://all-about-linguistics.group.shef.ac.uk/wp-content/uploads/2016/03/Sociolinguistic-brain.png)
+
 ## Project Description
 #### The Project:
 I have always been interested in linguistics and how training on different linguistics datasets might lead a Neural Network to make more biased predictions. I want to examine different Neural Networks that are trained on linguistic data to see if they perform better on Standard American English overall compared to other dialects (such as AAE, the language of ESL speakers, or nonstandard dialects overall). 
