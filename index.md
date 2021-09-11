@@ -4,9 +4,9 @@ Exploring Bias through Linguistic Data
 
 ## Project Description
 #### The Project:
-I have always been interested in linguistics and how training on different linguistics datasets might lead a Neural Network to make more biased predictions. I want to examine different Neural Networks that are trained on linguistic data to see if they perform better on Standard American English overall compared to other dialects (such as AAE, the language of ESL speakers, or nonstandard dialects overall). 
+I have always been interested in linguistics and how training on different linguistic datasets might lead a Neural Network to make more biased predictions. I want to examine different Neural Networks that are trained on a representative linguistic dataset to see if they perform better on Standard American English overall compared to other dialects (such as AAE, the language of ESL speakers, or nonstandard dialects overall). 
 
-We would plan on first identifying the Neural Network models that are most standard for Language evaluation. Then, we would figure out what language data we could use to train the model that represent both standard and non-standard dialects. We would then conduct multiple experiments on said data and the models to identify where the model is biased and what "form" of English fits the model best. The analysis would be to identify if a sentence is "correct" and "grammatical" or at least "understandable" to the model.  
+We would plan on first identifying the Neural Network models that are most standard for Language evaluation. Then, we would figure out what language data we could use to train a few models that represent both standard and non-standard dialects. We would then conduct multiple experiments on said data and the models to identify where the models are biased and what "form" of English fits the models best. The analysis would be to identify if a sentence is "correct" and "grammatical" or at least "understandable" to the model. I would be most interested in evaluating if Standard American English sentences are more "correct" than non-standard forms even if the models are trained on a dataset that represents both. 
 
 ### The Software:
 
